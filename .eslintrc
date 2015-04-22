@@ -158,7 +158,7 @@ rules:
     - indentSwitchCase: false
   brace-style:
     - 2
-    - "1tbs"
+    - "stroustrup"
     - allowSingleLine: true
   camelcase:
     - 2
