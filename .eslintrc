@@ -117,7 +117,7 @@ rules:
   vars-on-top: 0
   wrap-iife:
     - 2
-    - "inside"
+    - "outside"
   yoda:
     - 1
     - "always"
@@ -128,15 +128,15 @@ rules:
   no-catch-shadow: 2
   no-delete-var: 2
   no-label-var: 2
-  no-shadow: 2
+  no-shadow: 1
   no-shadow-restricted-names: 2
   no-undef: 2
   no-undef-init: 1
   no-undefined: 1
   no-unused-vars:
     - 2
-    - "all"
-    - "after-used"
+    - vars: 'all'
+      args: 'after-used'
   no-use-before-define:
     - 2
     - "nofunc"
@@ -252,7 +252,7 @@ rules:
   space-unary-ops:
     - 2
     - words: true
-    - nonwords: false
+      nonwords: false
   spaced-line-comment:
     - 2
     - "always"
