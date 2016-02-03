@@ -26,5 +26,5 @@ extends: "fingerproof/es6"
 
 ## Useful links
 
-- Learn more about [ESLint shareable configs](http://eslint.org/docs/developer-guide/shareable-configs)
+- Learn more about [ESLint shareable configs](http://eslint.org/docs/developer-guide/shareable-configs).
 - Use ESLint in Sublime Text thanks to [SublimeLinter](http://www.sublimelinter.com/en/latest/) and its [ESLint plugin](https://github.com/roadhump/SublimeLinter-eslint).
