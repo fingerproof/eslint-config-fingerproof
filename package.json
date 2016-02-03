@@ -9,7 +9,7 @@
     "es6",
     "es2015"
   ],
-  "repository": "fingerproof/eslint-config-fingerproof"
+  "repository": "fingerproof/eslint-config-fingerproof",
   "homepage": "https://github.com/fingerproof/eslint-config-fingerproof#readme",
   "bugs": {
     "url": "https://github.com/fingerproof/eslint-config-fingerproof/issues"
