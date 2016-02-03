@@ -1,4 +1,4 @@
-extends: '.eslintrc.yaml'
+extends: ".eslintrc.es5.yaml"
 env:
   es6: true
 ecmaFeatures:
