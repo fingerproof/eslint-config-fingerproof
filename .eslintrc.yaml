@@ -1,5 +1,5 @@
 root: true
-extends: ".eslintrc.es5.yaml"
+extends: "./index.js"
 env:
   node: true
 rules:
