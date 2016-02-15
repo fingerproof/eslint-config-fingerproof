@@ -3,6 +3,4 @@ extends: "./index.js"
 env:
   node: true
 rules:
-  strict:
-    - 2
-    - "global"
+  no-magic-numbers: 0

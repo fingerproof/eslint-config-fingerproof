@@ -3,8 +3,8 @@
 module.exports = {
   root: true,
   extends: [
+    './lib/es5/parser-options',
     './lib/es5/env',
-    './lib/es5/ecma-features',
     './lib/es5/possible-errors',
     './lib/es5/best-practices',
     './lib/es5/strict-mode',
