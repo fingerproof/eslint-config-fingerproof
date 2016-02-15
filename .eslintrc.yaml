@@ -4,6 +4,3 @@ env:
   node: true
 rules:
   no-magic-numbers: 0
-  strict:
-    - 2
-    - "global"
