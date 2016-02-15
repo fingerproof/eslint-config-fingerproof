@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-fingerproof",
-  "version": "2.0.0-dev",
+  "version": "2.0.0",
   "description": "fingerproof's ESLint configuration",
   "keywords": [
     "eslint",
