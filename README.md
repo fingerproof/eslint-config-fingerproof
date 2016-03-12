@@ -30,6 +30,12 @@ Or if you write ES6 code:
 extends: "fingerproof/es6"
 ```
 
+Or if you write ES7 code:
+
+```yaml
+extends: "fingerproof/es7"
+```
+
 ## Useful links
 
 - Learn more about [ESLint shareable configs](http://eslint.org/docs/developer-guide/shareable-configs).
