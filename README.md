@@ -10,7 +10,7 @@ Redefines ESLint configuration rules to match our coding style preferencies.
 $ npm install --save-dev eslint eslint-config-fingerproof
 ```
 
-or if you still use ESLint 1
+Or if you still use ESLint 1:
 
 ```bash
 $ npm install --save-dev eslint@1.10.3 eslint-config-fingerproof@1.0.0
